@@ -1,0 +1,32 @@
+h1, h2, h3, h4, h6, p, li, td, figcaption{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+  color: navy;
+}
+
+h3 {
+  color: lightslategrey;
+}
+
+#batter h2 {
+  color: lightsalmon;
+}
+
+#cream h2 {
+  color: steelblue;
+}
+
+#ref h2 {
+  color: gray;
+}
+
+/* .big-icon {
+  width: 28px;
+  height: 28px;
+}
+.small-icon {
+  width: 18px;
+  height: 18px;
+} */
